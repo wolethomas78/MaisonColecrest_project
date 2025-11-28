@@ -38,6 +38,14 @@ The return rate is minimal with 1%, indicating strong product satisfaction and l
 ### 5. Discount Strategy Impacts Revenue
 Average discount of 11%. Higher discount periods correlate with short-term spikes in sales volume but lower per-unit profitability.
 
+## Tools Used
+### SQL Environment
+•	PostgreSQL
+Data Visualization
+•	Power BI (main dashboard and KPIs)
+Other Tools
+•	GitHub (version control)
+•	Draw I.O
 
 
 
