@@ -27,16 +27,16 @@ Run SQL Queries
 •	All visuals (weekly revenue, VIP revenue share, discount %, gross margin) update automatically
 
 # Key Findings
--- 1. Weekly Revenue Trend
-Sales show fluctuating demand with clear peaks during promotional periods and dips during off-season weeks.
--- 2. VIP Customers Drive Disproportionate Revenue
-VIP customers contribute a significantly 16% share of total revenue relative to their transaction count.
--- 3. Gross Margin Performance
-Gross margin remains healthy, with high-margin products contributing 49% to profitability.
--- 4. Return Rates Are Low and Stable
-The return rate is minimal with 1%, indicating strong product satisfaction and low operational waste.
--- 5. Discount Strategy Impacts Revenue
-Average discount of 11%. Higher discount periods correlate with short-term spikes in sales volume but lower per-unit profitability.
+ 1. Weekly Revenue Trend
+-- Sales show fluctuating demand with clear peaks during promotional periods and dips during off-season weeks.
+2. VIP Customers Drive Disproportionate Revenue
+-- VIP customers contribute a significantly 16% share of total revenue relative to their transaction count.
+3. Gross Margin Performance
+-- Gross margin remains healthy, with high-margin products contributing 49% to profitability.
+4. Return Rates Are Low and Stable
+-- The return rate is minimal with 1%, indicating strong product satisfaction and low operational waste.
+5. Discount Strategy Impacts Revenue
+-- Average discount of 11%. Higher discount periods correlate with short-term spikes in sales volume but lower per-unit profitability.
 
 
 
